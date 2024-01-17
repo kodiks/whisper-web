@@ -24,7 +24,14 @@ function App() {
                     className='underline'
                     href='https://github.com/xenova/transformers.js'
                 >
-                    🤗 Transformers.js
+                    Transformers.js
+                </a>
+                &nbsp;and patched by&nbsp;
+                <a
+                    className='underline'
+                    href='https://www.kodiks.com/'
+                >
+                    Kodiks.
                 </a>
             </div>
         </div>
